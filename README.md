@@ -10,6 +10,12 @@ _A cutting-edge tool designed for resume analysis and job seeker assistance, bui
 
 ### PROTOTYPE VIDEO
 
+
+
+
+https://github.com/user-attachments/assets/a157fc07-d06b-4ee8-be7e-dbad6c08f481
+
+
 <br><br>
 
 ### HOW TO EXECUTE
@@ -17,7 +23,7 @@ _A cutting-edge tool designed for resume analysis and job seeker assistance, bui
 #### Terminal
 
 ```
-git clone https://github.com/raghavavidyapriya/genz-hiring.git
+git clone https://github.com/muhilan23/genz-hiring.git
 ```
 
 <br>
